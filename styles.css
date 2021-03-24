@@ -1,0 +1,44 @@
+.jab {
+  background-color: #59c6b8;
+}
+
+.roadmap {
+  background-color: #c68d59;
+}
+
+.work {
+  background-color: #C659A8;
+}
+
+.social {
+  background-color: #59C677;
+}
+
+h2 {
+  font-family: 'roboto';
+  color: white;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: 'roboto';
+  color:white;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 100px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: rgba(255, 206, 132, 0.932);
+}
+
+.title {
+  background: -webkit-linear-gradient(#C659A8,#59C677);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  align-content: center;
+}
